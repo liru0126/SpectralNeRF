@@ -41,3 +41,10 @@ python3 test.py
 
 ![video](./supp_videos/videos/video_synthetic/460/video001.mp4)
 
+# Acknowledgments
+
+In this project we use (parts of) the implementations of the following work:
+
+* [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch)
+
+We thank the respective authors for open sourcing of their implementations.
