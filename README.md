@@ -38,8 +38,6 @@ python3 test.py
 ```
 
 ## Results
-
-https://github.com/liru0126/SpectralNeRF/blob/main/supp_videos/videos/videos_synthetic/460/video001.mp4
               
 
 # Acknowledgments
