@@ -12,9 +12,7 @@ This is the Pytorch implementation of our AAAI 2024 paper SpectralNeRF.
 
 The datasets can be downloaded [here](https://drive.google.com/).
 
-The dataset contains the **synthetics datasets** and **real-world datasets**
-
-Detailed instructions can be found [here](./datasets/dataset.md).
+The detailed render configurations for **synthetic datasets** and the capture instructions for **real-world scenes** can be found [here](./datasets/dataset.md).
 
 ## Results
 
