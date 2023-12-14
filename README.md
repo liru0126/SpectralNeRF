@@ -21,7 +21,6 @@ The dataset contains the synthetics datasets and real-world datasets
 ### Real-world datasets
 
 
-
 ## Pre-trained models
 
 The pre-trained models can be downloaded [here](https://drive.google.com/).
@@ -39,7 +38,7 @@ python3 test.py
 
 ## Results
 
-[HTML](./supp_videos/index.html)
+[HTML]()
               
 
 ## Acknowledgments
