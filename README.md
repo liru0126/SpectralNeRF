@@ -38,6 +38,8 @@ python3 test.py
 ```
 
 ## Results
+
+[HTML](./supp_videos/index.html)
               
 
 ## Acknowledgments
