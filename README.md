@@ -11,7 +11,7 @@ This is the Pytorch implementation of our AAAI 2024 paper SpectralNeRF.
 
 ## Data Preparation
 
-The datasets can be downloaded [here](https://drive.google.com/drive/folders/1agSGUuK0LuwLuxzqXADGdRa2rvD_CyWu?usp=sharing).
+The datasets can be downloaded [here](https://drive.google.com/).
 
 The dataset contains the synthetics datasets and real-world datasets
 
@@ -24,7 +24,7 @@ The dataset contains the synthetics datasets and real-world datasets
 
 ## Pre-trained models
 
-The pre-trained models can be downloaded [here](https://drive.google.com/drive/folders/1agSGUuK0LuwLuxzqXADGdRa2rvD_CyWu?usp=sharing).
+The pre-trained models can be downloaded [here](https://drive.google.com/).
 
 ## Training
 ``` 
