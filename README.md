@@ -39,7 +39,7 @@ python3 test.py
 
 ## Results
 
-![video](./supp_videos/videos/video_synthetic/460/video001.mp4)
+![Watch the video](./supp_videos/videos/video_synthetic/460/video001.mp4)
 
 # Acknowledgments
 
