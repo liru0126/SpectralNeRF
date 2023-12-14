@@ -38,7 +38,7 @@ python3 test.py
 
 ## Results
 
-[Link](https://liru0126.github.io/SpectralNeRF-demo/)
+[Link](https://htmlpreview.github.io/?https://github.com/liru0126/SpectralNeRF/blob/main/supp_videos/index.html)
               
 
 ## Acknowledgments
