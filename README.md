@@ -17,6 +17,7 @@ The dataset contains the synthetics datasets and real-world datasets
 ### Synthetic datasets
 
 We render our synthetic scenes with multiple spectral illuminants to generate spectral images. To acquire spectral illuminants, we divide the wavelength range of the light source spectrum in Mitsuba from 360nm to 830nm into 11 adjacent intervals.
+
 In addition, we use the CIE standard illuminant D65 as the default white light source for scenes in our dataset. The D65 light source is an artificial light source that simulates daylight, and its emission spectrum conforms to the average midday light of European and Pacific countries. 
 
 
