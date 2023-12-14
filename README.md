@@ -40,7 +40,7 @@ python3 test.py
 ## Results
               
 
-# Acknowledgments
+## Acknowledgments
 
 In this project we use (parts of) the implementations of the following work:
 
