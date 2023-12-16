@@ -8,6 +8,13 @@ As for the first 10 spectral intervals, the relative power at the midpoint is se
 
 In addition, we use the CIE standard illuminant D65 as the default white light source for scenes in our dataset. The D65 light source is an artificial light source that simulates daylight, and its emission spectrum conforms to the average midday light of European and Pacific countries. 
 
+# The Spectral Reflectance and the Camera Response
+
+When rendering the spectral datasets, some materials are assigned with the generated random spectral responses and the bidirectional scattering distribution function (BSDF) of the plastics and the metals. Other materials are physically-based rendering image textures and assigned with plausible smooth spectral responses corresponding to each color using spectral upsampling algorithms in Mitsuba. 
+
+The camera sensor response is fixed as the normal RGB sensitivity curves. The measured spectral power distributions are converted to the linear RGB values based on the CIE 1931 XYZ color matching curves. 
+
+Then, the spectrum maps of multiple wavelengths are rendered by ray-tracing rendering algorithms in Mitsuba
 
 ## Real-world datasets
 
