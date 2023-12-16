@@ -16,7 +16,7 @@ Some examples:
 
 ![image](./figs/datasets.png)
 
-The detailed render configurations for **synthetic datasets** and the capture instructions for **real-world scenes** can be found [here](./datasets/dataset.md).
+The detailed **render configurations for synthetic datasets** and **the capture instructions for real-world scenes** can be found [here](./datasets/dataset.md).
 
 ## Results
 
