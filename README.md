@@ -1,5 +1,5 @@
 # SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field
-This is the Pytorch implementation of our AAAI 2024 paper SpectralNeRF.
+This is the Pytorch implementation of our AAAI 2024 paper [SpectralNeRF](https://arxiv.org/pdf/2312.08692.pdf).
 
 ![image](./figs/pipeline.png)
 
