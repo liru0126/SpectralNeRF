@@ -12,11 +12,11 @@ This is the Pytorch implementation of our AAAI 2024 paper [SpectralNeRF](https:/
 
 The datasets can be downloaded [here](https://drive.google.com/).
 
+The detailed **render configurations for synthetic datasets** and **the capture instructions for real-world scenes** can be found [here](./datasets/dataset.md).
+
 Some examples:
 
 ![image](./figs/datasets.png)
-
-The detailed **render configurations for synthetic datasets** and **the capture instructions for real-world scenes** can be found [here](./datasets/dataset.md).
 
 ## Results
 
