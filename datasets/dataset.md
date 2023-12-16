@@ -1,5 +1,7 @@
 ## Synthetic datasets
 
+### The Spectral Illumination
+
 We render our synthetic scenes with multiple spectral illuminants to generate spectral images. To acquire spectral illuminants, we divide the wavelength range of the light source spectrum in [Mitsuba](https://www.mitsuba-renderer.org/) from 360nm to 830nm into 11 adjacent intervals.
 
 ![image](dataset_illumination.png)
