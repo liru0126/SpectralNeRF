@@ -18,10 +18,43 @@ Some examples:
 
 ![image](./figs/datasets.png)
 
+## Installation
+
+```
+git clone https://github.com/liru0126/SpectralNeRF.git
+cd SpectralNeRF
+pip install -r requirements.txt
+```
+
+## Training
+``` 
+sh train.sh
+```
+
+## Testing
+
+```
+sh test.sh
+```
+
 ## Results
 
 [Link](https://htmlpreview.github.io/?https://github.com/liru0126/SpectralNeRF/blob/main/supp_videos/index.html)
-              
+
+
+## Citation
+
+```
+@inproceedings{li2024spectralnerf,
+  title={SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field},
+  author={Li, Ru and Liu, Jia and Liu, Guanghui and Zhang, Shengping and Zeng, Bing and Liu, Shuaicheng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={4},
+  pages={3154--3162},
+  year={2024}
+}
+```
 
 ## Acknowledgments
 
