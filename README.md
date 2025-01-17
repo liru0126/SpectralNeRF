@@ -3,10 +3,13 @@ This is the Pytorch implementation of our AAAI 2024 paper [SpectralNeRF](https:/
 
 ![image](./figs/pipeline.png)
 
-## Dependencies
+## Installation
 
-* Pytorch
-* Other requirements please refer to requirements.txt.
+```
+git clone https://github.com/liru0126/SpectralNeRF.git
+cd SpectralNeRF
+pip install -r requirements.txt
+```
 
 ## Data Preparation
 
@@ -18,13 +21,6 @@ Some examples:
 
 ![image](./figs/datasets.png)
 
-## Installation
-
-```
-git clone https://github.com/liru0126/SpectralNeRF.git
-cd SpectralNeRF
-pip install -r requirements.txt
-```
 
 ## Training
 ``` 
