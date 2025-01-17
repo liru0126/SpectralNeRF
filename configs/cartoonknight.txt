@@ -1,0 +1,25 @@
+expname = cartoonknight
+basedir = ./results
+datadir = /data/path
+dataset_type = blender
+spectrum_num = 11
+
+no_batching = True
+
+use_viewdirs = True
+white_bkgd = False
+lrate_decay = 500
+
+N_samples = 64
+N_importance = 128
+N_rand = 1024
+
+precrop_iters = 500
+precrop_frac = 0.5
+act_func = leaky_relu
+image_format = .png
+
+half_res = True
+
+blender_near = 0.
+blender_far = 3.
