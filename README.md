@@ -33,10 +33,6 @@ sh train.sh
 sh test.sh
 ```
 
-## Results
-
-[Link](https://htmlpreview.github.io/?https://github.com/liru0126/SpectralNeRF/blob/main/supp_videos/index.html)
-
 
 ## Citation
 
